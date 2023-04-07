@@ -1,7 +1,8 @@
 ![MasterHead](https://i.makeagif.com/media/5-16-2018/WIKVPz.gif)
 <h1 align="center">Hi 👋, I'm Jinus Bordbar</h1>
 <h3 align="center">A passionate AI researcher from Iran</h3>
-<img align="right" width="400" src="https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif">
+<img align="right" width="500" src="https://cdn.dribbble.com/users/1047273/screenshots/6515762/01-pinssm.gif">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jnsbrdbr&label=Profile%20views&color=0e75b6&style=flat" alt="jnsbrdbr" /> </p>
