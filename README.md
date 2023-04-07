@@ -1,4 +1,4 @@
-![MasterHead](https://i.makeagif.com/media/5-16-2018/WIKVPz.gif)
+![MasterHead](https://cdn.dribbble.com/users/332742/screenshots/11438002/media/2ce51fa78ca5fa0579e3ff05290ad2a8.gif)
 <h1 align="center">Hi 👋, I'm Jinus Bordbar</h1>
 <h3 align="center">A passionate AI researcher from Iran</h3>
 <img align="right" width="500" src="https://cdn.dribbble.com/users/1047273/screenshots/6515762/01-pinssm.gif">
