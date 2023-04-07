@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **python, machine leaning, Deep learning.**
 
-- 📫 How to reach me? [Gmail](Jinus.bordbar@gmail.com).
+- 📫 How to reach me? **Gmail**.
 
 
 - 📄 Know about my experiences [on my CV](http://jinusbordbar.name/cv/cv.pdf).
