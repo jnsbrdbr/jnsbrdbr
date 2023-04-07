@@ -8,20 +8,20 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jnsbrdbr&label=Profile%20views&color=0e75b6&style=flat" alt="jnsbrdbr" /> </p>
 
 
-- 🔭 I’m currently working on [kaggle competition](https://www.kaggle.com/competitions/birdclef-2023)
+- 🔭 I’m currently working on [Kaggle competition](https://www.kaggle.com/competitions/birdclef-2023)
 
 
 - 🌱 I’m currently learning **New upcoming Deep learning methods.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jnsbrdbr](https://github.com/jnsbrdbr)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/jnsbrdbr)
 
-- 📝 I regularly write articles on [http://jinusbordbar.name/](http://jinusbordbar.name/)
+- 📝 I regularly write articles on [my website](http://jinusbordbar.name/)
 
 - 💬 Ask me about **python, machine leaning, Deep learning.**
 
 - 📫 How to reach me **Jinus.bordbar@gmail.com**
 
-- 📄 Know about my experiences [http://jinusbordbar.name/cv/cv.pdf](http://jinusbordbar.name/cv/cv.pdf)
+- 📄 Know about my experiences [on my CV](http://jinusbordbar.name/cv/cv.pdf)
 
 - ⚡ Fun fact **I feel I have supernatural powers.**
 
