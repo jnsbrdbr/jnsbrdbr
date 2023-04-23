@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jnsbrdbr&label=Profile%20views&color=0e75b6&style=flat" alt="jnsbrdbr" /> </p>
 
 
-- 🔭 I’m currently working on [New projects].
+- 🔭 I’m currently working on [New projects](https://github.com/jnsbrdbr?tab=repositories).
 
 
 - 🌱 I’m currently learning **New upcoming Deep learning methods.**
