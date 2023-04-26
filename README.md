@@ -40,7 +40,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jnsbrdbr&show_icons=true&locale=en&layout=compact" alt="jnsbrdbr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jnsbrdbr&show_icons=true&locale=en" alt="jnsbrdbr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jnsbrdbr&show_icons=true&locale=en" alt="jnsbrdbr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jnsbrdbr&" alt="jnsbrdbr" /></p>
 
