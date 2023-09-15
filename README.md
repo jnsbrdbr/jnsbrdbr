@@ -13,16 +13,16 @@
 
 - 🌱 I’m currently learning **New upcoming Deep learning methods.**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/jnsbrdbr).
+- 👨‍💻 All my projects are available at [Github](https://github.com/jnsbrdbr).
 
 - 📝 I regularly write articles on [my website](http://jinusbordbar.name/).
 
-- 💬 Ask me about **python, machine leaning, Deep learning.**
+- 💬 Ask me about **Python, machine learning, and Deep learning.**
 
 - 📫 How to reach me? **Gmail**.
 
 
-- 📄 Know about my experiences [on my CV](http://jinusbordbar.name/cv/cv.pdf).
+- 📄 Know my experiences [on my CV](http://jinusbordbar.name/cv/cv.pdf).
 
 - ⚡ Fun fact **I feel I have supernatural powers.**
 
